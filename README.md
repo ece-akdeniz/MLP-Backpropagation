@@ -16,8 +16,8 @@ The goal is to understand backpropagation directly. The implementation calculate
 Create a fresh Python environment and install PyTorch:
 
 ```bash
-git clone https://github.com/ece-akdeniz/deep-learning-assignments.git
-cd deep-learning-assignments
+git clone https://github.com/ece-akdeniz/MLP-Backpropagation.git
+cd MLP-Backpropagation
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install torch
